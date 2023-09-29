@@ -4,4 +4,4 @@ Scansione 3D della statua del Guercino di Stefano Galletti in piazza Guercino a 
 
 ## Licenza
 
-CC-BY-SA 4.0
+Copyright (c) 2023 Matteo Fortini. Distribuito con licenza CC-BY-SA 4.0.
